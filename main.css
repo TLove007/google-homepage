@@ -1,0 +1,18 @@
+body {
+  font-family: arial, sans-serif;
+}
+
+
+center {
+  margin-top: 150px;
+}
+
+.navbar {
+  text-align: right;
+  padding-right: 25px;
+}
+
+.navbar, a {
+  text-decoration: none;
+  padding-left: 15px;
+}
